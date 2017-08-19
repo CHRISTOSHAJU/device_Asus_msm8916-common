@@ -142,6 +142,9 @@ PRODUCT_PACKAGES += \
 # GPS
 PRODUCT_PACKAGES += \
     gps.msm8916 \
+    libshims_get_process_name
+
+PRODUCT_PACKAGES += \
     flp.conf \
     gps.conf \
     izat.conf \
