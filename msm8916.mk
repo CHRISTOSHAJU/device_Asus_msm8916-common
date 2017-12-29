@@ -123,9 +123,8 @@ PRODUCT_PACKAGES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    android.hardware.camera.provider@2.4-impl \
+    android.hardware.camera.provider@2.4-impl-legacy \
     bspcapability \
-    camera.device@3.2-impl \
     libshims_camera \
     camera.msm8916
 
